@@ -9,4 +9,5 @@ Creating a new branch is quick and simple.
 >>>>>>> feature
 =======
 Creating a new branch is quick and simple.
+add merge.
 >>>>>>> dev
